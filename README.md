@@ -64,14 +64,15 @@ Your goal is to defend the base through all enemy waves.
 
 ## Sound Effects
 
-Turn your volume on for the full experience.
+Turn your volume on for the full experience. Warning: there are funny sounds.
 
-- Radar ping: radar sweep completes a circle
+- Radar "bing": radar sweep completes a circle
 - Launch sound: interceptor missile launched
-- Explosion: interceptor hit
-- Miss sound: interceptor missed
-- Alert sound: base takes damage
-- Victory sound: all waves cleared
+- Explosion: interceptor hit(big boom)
+- Miss sound: interceptor missed(yell at Enrique)
+- Alert sound: base takes damage(Euh oh)
+- Victory sound: all waves cleared(Very Nice!)
+- Loss sound: one wave lost(It is the end)
 
 ## Radar Note
 
